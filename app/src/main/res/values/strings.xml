@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task App</string>
+    <string name="fruits">from_fruits</string>
+    <string name="tvs">from_tvs</string>
+</resources>
